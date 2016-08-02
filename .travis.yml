@@ -1,4 +1,4 @@
-language: objective-c
+language: swift
 xcode_project: CI-demo.xcodeproj
 xcode_scheme: CI-demoTests
 osx_image: xcode8
