@@ -503,6 +503,7 @@
 				A79C618B1D50ACF300E56AC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A79C618C1D50ACF300E56AC2 /* Build configuration list for PBXNativeTarget "CI-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +512,7 @@
 				A79C618E1D50ACF300E56AC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A79C618F1D50ACF300E56AC2 /* Build configuration list for PBXNativeTarget "CI-demoUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +521,7 @@
 				A79C61911D50ACF300E56AC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
