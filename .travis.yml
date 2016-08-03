@@ -3,5 +3,5 @@ xcode_project: CI-demo.xcodeproj
 xcode_scheme: CI-demoTests
 osx_image: xcode8
 script:
-- xcodebuild clean build test -project CI-demo.xcodeproj -scheme CI-demoTests
+- xcodebuild clean build-for-testing  test -project CI-demo.xcodeproj -scheme CI-demoTests -destination 'platform=iOS Simulator,name=iPhone SE'
 
