@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     public func test(a:Int, b:Int) -> Int {
-        return a + b
+        return a + b // #1
     }
 
 }
